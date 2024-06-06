@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T18:13:28.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="_fqZ9EdZOxFpz1v-rvPR" version="24.4.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T18:23:26.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="6pN9QSnnzwbRhRFWT34K" version="24.4.15" type="github">
   <diagram name="第 1 页" id="9ri6KTRYd-GfSEm5Z-P-">
-    <mxGraphModel dx="1433" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,19 +352,19 @@
         <mxCell id="kpqCJwKtZSiobrVSdarv-115" value="药品进库" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="620" y="460" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kpqCJwKtZSiobrVSdarv-116" value="类型" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kpqCJwKtZSiobrVSdarv-116" value="编码" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="585" y="550" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kpqCJwKtZSiobrVSdarv-117" value="图片" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kpqCJwKtZSiobrVSdarv-117" value="数量" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="645" y="570" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kpqCJwKtZSiobrVSdarv-118" value="进货价格" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kpqCJwKtZSiobrVSdarv-118" value="单位" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="695" y="550" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kpqCJwKtZSiobrVSdarv-119" value="名称" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="555" y="520" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kpqCJwKtZSiobrVSdarv-120" value="出货价格" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kpqCJwKtZSiobrVSdarv-120" value="总金额" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="705" y="520" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kpqCJwKtZSiobrVSdarv-121" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="kpqCJwKtZSiobrVSdarv-119">
@@ -397,19 +397,19 @@
             <mxPoint x="664" y="565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kpqCJwKtZSiobrVSdarv-129" value="类型" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kpqCJwKtZSiobrVSdarv-129" value="编码" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="345" y="540.28" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kpqCJwKtZSiobrVSdarv-130" value="图片" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="405" y="560.28" width="80" height="30" as="geometry" />
+        <mxCell id="kpqCJwKtZSiobrVSdarv-130" value="单位" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="405" y="560" width="80" height="30.28" as="geometry" />
         </mxCell>
-        <mxCell id="kpqCJwKtZSiobrVSdarv-131" value="进货价格" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kpqCJwKtZSiobrVSdarv-131" value="数量" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="455" y="540.28" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kpqCJwKtZSiobrVSdarv-132" value="名称" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="315" y="510.28" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kpqCJwKtZSiobrVSdarv-133" value="出货价格" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kpqCJwKtZSiobrVSdarv-133" value="总金额" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="465" y="510.28" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kpqCJwKtZSiobrVSdarv-134" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="kpqCJwKtZSiobrVSdarv-132">
@@ -442,7 +442,7 @@
             <mxPoint x="430" y="490.28" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kpqCJwKtZSiobrVSdarv-142" value="药品进库" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="kpqCJwKtZSiobrVSdarv-142" value="药品出库" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="385" y="450.14" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kpqCJwKtZSiobrVSdarv-143" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.668;exitY=0.915;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kpqCJwKtZSiobrVSdarv-77" target="kpqCJwKtZSiobrVSdarv-142">
